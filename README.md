@@ -12,7 +12,7 @@ This sample demonstrates a simple HTML website with client side JavaScript codes
 
 1. Get Speech Services API key from [Microsoft Cognitive Services - Speech Services API][]
 
-2. Open `index.html` in any modern web browsers (e.g. [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)) to run the sample and see the results!
+2. Open `index.html` in any modern web browsers to run the sample and see the results!
 
 [Microsoft Cognitive Services - Speech Services API]: https://azure.microsoft.com/en-us/try/cognitive-services/?api=speech-services
 
